@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in Computer software and IoT
-- 🌱 I’m currently learning basics of IoT
--     Planning to work on C++ and maybe Java
+- 🌱 I’m currently learning IoT and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord - 𝕃𝕦𝕔𝕪#9901
 
