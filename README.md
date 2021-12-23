@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in Computer software and Web dev
-- 🌱 I’m currently learning Web dev, Python
+- 👀 I’m interested in Computer software and IoT
+- 🌱 I’m currently learning basics of IoT
+-     Planning to work on C++ and maybe Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord - 𝕃𝕦𝕔𝕪#9901
 
